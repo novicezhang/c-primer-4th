@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Qt/Qt5.11.2/Tools/mingw530_32/i686-w64-mingw32/include",
+                "C:/Qt/Qt5.11.2/Tools/mingw530_32/i686-w64-mingw32/include/c++",
+                "C:/Qt/Qt5.11.2/Tools/mingw530_32/i686-w64-mingw32/include/c++/tr1",
+                "C:/Qt/Qt5.11.2/Tools/mingw530_32/i686-w64-mingw32/include/c++/i686-w64-mingw32"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
